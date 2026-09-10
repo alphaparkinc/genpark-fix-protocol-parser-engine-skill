@@ -1,0 +1,15 @@
+{
+  "name": "genpark-fix-protocol-parser-engine-skill",
+  "version": "1.0.0",
+  "description": "Financial Information eXchange (FIX) protocol messaging engine parsing tag-value pairs, validating header checksums, and building execution reports.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "fix-protocol",
+    "fintech",
+    "order-routing",
+    "financial-messaging"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
